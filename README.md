@@ -1,4 +1,4 @@
-# xtjc
+# HardwareChecker
 HardwareChecker  
 一个轻量级的硬件检测工具  
 预计以后会添加以下检查功能  
