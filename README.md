@@ -1,6 +1,7 @@
 # HardwareChecker
 HardwareChecker  
 一个轻量级的硬件检测工具  
+在Windows以管理员身份直接运行即可  
 预计以后会添加以下检查功能  
 1主板  
  外频是否正常（95Mhz<FSB频率<105Mhz）  
