@@ -1,0 +1,4 @@
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\bin\Release\ghkjfdgj.exe.config
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\bin\Release\ghkjfdgj.exe
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\obj\Release\ghkjfdgj.csprojResolveAssemblyReference.cache
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\obj\Release\ghkjfdgj.exe

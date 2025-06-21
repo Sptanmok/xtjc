@@ -1,0 +1,6 @@
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\obj\Debug\ghkjfdgj.csprojResolveAssemblyReference.cache
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\bin\Debug\ghkjfdgj.exe.config
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\bin\Debug\ghkjfdgj.exe
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\bin\Debug\ghkjfdgj.pdb
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\obj\Debug\ghkjfdgj.exe
+H:\Documents\SharpDevelop Projects\ghkjfdgj\ghkjfdgj\obj\Debug\ghkjfdgj.pdb
